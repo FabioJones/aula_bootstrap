@@ -1,0 +1,36 @@
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.navbar{
+   background-color:#4d4c4c; ;
+   border: 1px solid white;
+   color: white;
+}
+.quem-somos{
+   background-color: #e0e0e0;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+#parceiros{
+    background-color:#4d4c4c;
+    border: 1px solid white;
+}
+#serviços{
+    background-color: #e0e0e0;
+}
+.editortxt{
+    text-align: justify;
+    text-justify: newspaper;
+}
+.bg-color{
+    background-color:#4d4c4c; 
+    color: white;
+}
+
